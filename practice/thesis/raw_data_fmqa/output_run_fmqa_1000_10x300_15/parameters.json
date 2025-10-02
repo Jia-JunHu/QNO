@@ -1,0 +1,8 @@
+{
+    "initial": 1000,
+    "adding_number": 10,
+    "iteration": 300,
+    "run_number": 15,
+    "adding_rate": 0.01,
+    "source_filename_used_for_parsing": "output_run_fmqa_1000_10x300_15.ipynb"
+}

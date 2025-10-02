@@ -1,0 +1,8 @@
+{
+    "initial": 1000,
+    "adding_number": 400,
+    "iteration": 8,
+    "run_number": 14,
+    "adding_rate": 0.4,
+    "source_filename_used_for_parsing": "output_run_fmqa_1000_400x8_14.ipynb"
+}
